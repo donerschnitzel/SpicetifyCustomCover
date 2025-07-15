@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SpicetifyCustomCover",
+    "description": "Spicetify extension to change the album cover.",
+    "preview": "Screenshot From 2025-07-15 17-43-29.png",
+    "main": "customCover.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "donerschnitzel", "url": "https://github.com/donerschnitzel" }
+    ],
+    "tags": ["Albumcover"]
+  },
+]
